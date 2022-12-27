@@ -21,8 +21,8 @@
   <PropertyGroup Label="Globals">
     <VCProjectVersion>16.0</VCProjectVersion>
     <Keyword>Win32Proj</Keyword>
-    <ProjectGuid>{085778e2-6b27-40d8-9c38-286e19af49b2}</ProjectGuid>
-    <RootNamespace>HTTPAssignment</RootNamespace>
+    <ProjectGuid>{0094ac1e-6ea0-4d85-ae20-8ede3bb3e31c}</ProjectGuid>
+    <RootNamespace>ComputerNetworking2022AssignmentClient</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
@@ -139,7 +139,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="HTTPAssignment.cpp" />
+    <ClCompile Include="ComputerNetworking2022_Assignment_Client.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

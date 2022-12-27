@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="HTTPAssignment.cpp">
+    <ClCompile Include="ComputerNetworking2022_Assignment_Client.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>
